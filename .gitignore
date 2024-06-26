@@ -109,6 +109,7 @@ zig-out/
 build/
 build-*/
 docgen_tmp/
+.zig-cache/
 
 # Parser stuff
 parser/raylib_parser
